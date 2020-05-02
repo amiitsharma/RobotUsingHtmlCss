@@ -1,0 +1,138 @@
+body
+{
+    background: #30E8BF;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to left, #FF8235, #30E8BF);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, #FF8235, #30E8BF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.c1
+{
+    height:850px;
+    width:300px;
+    position: absolute;
+    left:42%;
+}
+h2
+{
+    text-align: center;
+}
+.c2
+{
+    position: relative;
+    top:5px;
+    left:110px;
+    height:80px;
+    width:80px;
+    background-color: magenta;
+}
+.c3
+{
+    position: relative;
+    left:16.5%;
+    top:10px;
+    width: 0; 
+  height: 0; 
+  border-left: 100px solid transparent;
+  border-right: 100px solid transparent;
+  
+  border-top: 300px solid magenta;
+}
+.c4
+{
+    position: relative;
+    top:-261px;
+    left:40px;
+}
+.c5
+{
+  width: 20px;
+  height:150px;
+  background-color: magenta;
+}
+.c6
+{
+    margin-top: 3px;
+    width: 20px;
+    height:150px;
+    background-color: magenta;
+}
+.c7
+{
+    position: relative;
+    top:-565px;
+    left:240px;
+}
+.c8
+{
+  width: 20px;
+  height:150px;
+  background-color: magenta;
+}
+.c9
+{
+    margin-top: 3px;
+    width: 20px;
+    height:150px;
+    background-color: magenta;
+}
+.c10
+{
+    position: relative;
+    top:-600px;
+    left:120px;
+}
+.c11
+{
+  width: 20px;
+  height:170px;
+  background-color: magenta;
+}
+.c12
+{
+    margin-top: 3px;
+    width: 20px;
+    height:170px;
+    background-color: magenta;
+}
+.c13
+{
+    position: relative;
+    top:-945.5px;
+    left:160px;
+}
+.c14
+{
+  width: 20px;
+  height:170px;
+  background-color: magenta;
+}
+.c15
+{
+    margin-top: 3px;
+    width: 20px;
+    height:170px;
+    background-color: magenta;
+}
+.c16
+{
+    background-color: black;
+    height:3px;
+    width: 20px;
+}
+.c6:hover
+{
+    transform: rotate(-10deg);
+}
+.c9:hover
+{
+    transform: rotate(10deg);
+}
+.c2:hover
+{
+   box-shadow: 3px 3px 10px navy; 
+  scale: 2;
+}
+.c3:hover
+{
+box-shadow: 3px 3px 10px navy; 
+  scale: 2;
+}
